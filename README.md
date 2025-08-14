@@ -36,7 +36,7 @@ ByteWise is an innovative online course management system developed as a project
 *Special thanks to our course instructors, [**Dr. Nesma**](https://scholar.google.com.eg/citations?user=qLAvlbIAAAAJ) and [**Eng. Nourhan**](https://www.researchgate.net/profile/Nourhan-Shaban-4) for their guidance and support.*
 <br><br>
 and finally, **Thanks to the team behind the magic**:
-- [dizzydroid](https://github.com/dizzydroid)
+- [ashmod](https://github.com/ashmod)
 - [unauthorised-401](https://github.com/unauthorised-401)
 - [DopeBiscuit](https://github.com/DopeBiscuit)
 - [seifelwarwary](https://github.com/seifelwarwary)
